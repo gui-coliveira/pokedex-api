@@ -3,6 +3,7 @@
 
 Pokédex project development with HTML, CSS & JavaScript
 
+<img src="https://github.com/gui-coliveira/pokedex-using-pokeapi/blob/main/preview/preview.png?raw=true" width="400">
 
 ## How to Run
 
